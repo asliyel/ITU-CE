@@ -1,3 +1,6 @@
 [submodule "BLG231E-Digital-Circuits-22Fall"]
 	path = BLG231E-Digital-Circuits-22Fall
 	url = https://github.com/asliyel/BLG231E-Digital-Circuits-22Fall.git
+[submodule "BLG242E-Logic-Circuits-Laboratory-23Spring"]
+	path = BLG242E-Logic-Circuits-Laboratory-23Spring
+	url = https://github.com/asliyel/BLG242E-Logic-Circuits-Laboratory-23Spring.git
