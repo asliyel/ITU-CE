@@ -4,3 +4,6 @@
 [submodule "BLG242E-Logic-Circuits-Laboratory-23Spring"]
 	path = BLG242E-Logic-Circuits-Laboratory-23Spring
 	url = https://github.com/asliyel/BLG242E-Logic-Circuits-Laboratory-23Spring.git
+[submodule "BLG317E-Database-Systems-24Fall"]
+	path = BLG317E-Database-Systems-24Fall
+	url = https://github.com/CommitCrewDB/CommitCrew.git
