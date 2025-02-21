@@ -7,3 +7,6 @@
 [submodule "BLG317E-Database-Systems-24Fall"]
 	path = BLG317E-Database-Systems-24Fall
 	url = https://github.com/CommitCrewDB/CommitCrew.git
+[submodule "BLG411E-Software-Engineering-24Fall"]
+	path = BLG411E-Software-Engineering-24Fall
+	url = https://github.com/Cannoo082/team-bull.git
